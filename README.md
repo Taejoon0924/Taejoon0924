@@ -18,7 +18,5 @@
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 </p>
 <br>
-<h3 align="center">Github Stats</h3>
-![Taejoon0924's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taejoon0924&show_icons=true&theme=github_dark)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyang&count_bg=%237D7D7D&title_bg=%239185F3&icon=github.svg&icon_color=%23FFFFFF&title=MyPage&edge_flat=false)](https://hits.seeyoufarm.com)
